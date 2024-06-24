@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "749110767501",
+    "firebase_url": "https://authdb-13bf3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "authdb-13bf3",
+    "storage_bucket": "authdb-13bf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749110767501:android:a530a1e8f43e13f25257c4",
+        "android_client_info": {
+          "package_name": "com.example.authentic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_1VIZGZDCmUrqj-yqoTHOOFyHXjk6UYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
